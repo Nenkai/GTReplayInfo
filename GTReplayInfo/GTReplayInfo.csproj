@@ -14,4 +14,9 @@
     <PackageReference Include="Syroot.BinaryData.Memory" Version="5.2.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PDTools\PDTools.SpecDB\PDTools.SpecDB.csproj" />
+    <ProjectReference Include="..\PDTools\PDTools.Structures\PDTools.Structures.csproj" />
+  </ItemGroup>
+
 </Project>
