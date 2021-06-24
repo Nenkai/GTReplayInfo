@@ -1,0 +1,6 @@
+[submodule "GTReplayInfo/PDTools"]
+	path = GTReplayInfo/PDTools
+	url = https://github.com/Nenkai/PDTools.git
+[submodule "PDTools"]
+	path = PDTools
+	url = https://github.com/Nenkai/PDTools.git
